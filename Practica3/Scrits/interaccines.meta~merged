@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 7d7327a593339be4cb169161c5708d77
+=======
 <<<<<<< HEAD:Pactica 4/Scenes/Scripts.meta
 guid: 7cc70732536c8364fa05b4449bae8838
 =======
 guid: 7d7327a593339be4cb169161c5708d77
 >>>>>>> e03e090cffac860874864ad3185d41487e29ed42:Practica3/Scrits/interaccines.meta
+>>>>>>> e03e090cffac860874864ad3185d41487e29ed42
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8a97cf7069395364d806a14042edec70
+=======
+<<<<<<< HEAD:Pactica 4/Scenes/InventarioBaseDatos.cs.meta
+guid: 2b6d7bd14ae980f419057595f3057a8c
+=======
+guid: 8a97cf7069395364d806a14042edec70
+>>>>>>> e03e090cffac860874864ad3185d41487e29ed42:Practica3/Scrits/CamaraInteraction.cs.meta
+>>>>>>> e03e090cffac860874864ad3185d41487e29ed42
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
